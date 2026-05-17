@@ -20,10 +20,11 @@ This project analyzes bike sales data to understand customer behavior, sales tre
 - Analyzed income impact on purchase decisions
 
 ## Dashboard Preview
-<img width="1486" height="658" alt="Screenshot 2026-04-08 002735" src="https://github.com/user-attachments/assets/e67056f7-28c1-495c-9c73-41305c522d9a" />
+<img width="1508" height="688" alt="Screenshot 2026-05-17 135621" src="https://github.com/user-attachments/assets/0840e055-c68b-46bc-9659-f734c53a570e" />
 
 
 ## Author
-Muskan Chouhan  
+Muskan Chouhan
+Data Analyst
 MBA (Business Analytics & Finance)  
-Aspiring Data Analyst
+
